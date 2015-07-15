@@ -1,4 +1,7 @@
 ## Functions for R Programming assignment 2
+## code based on example makeVector and cachemean by R Peng
+## but done with a lot of head scratching to figure out how it worked and
+## how tocall it!
 
 ## ____________________________________________________
 ## This function will take a matrix and store it while offering functions to get
